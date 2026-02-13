@@ -1,0 +1,21 @@
+# Compiled Java files
+*.class
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# JDBC driver (should be downloaded separately)
+sqlite-jdbc.jar
